@@ -7,3 +7,6 @@
 ### Things to do
 - Shawnee Mission Park
 - Kauffman Performing Arts
+
+### Coffee Shops
+- Scooters in Lenexa

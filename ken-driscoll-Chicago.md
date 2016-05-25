@@ -7,3 +7,6 @@
 - See the Bean
 - See an indie film at the Music Box Theater
 - See a Cubs game
+
+### Coffee Shops
+- Starbucks
