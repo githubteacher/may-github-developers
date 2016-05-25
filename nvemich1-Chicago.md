@@ -7,3 +7,6 @@
 ### Things to do
 - Millenium Park
 - Lincoln park zoo
+
+### Coffee Shops
+- Starbucks
