@@ -4,7 +4,7 @@
 * Vermilion
 * Uno Pizzaria
 * Mysore woodlands for south indian food :)
-
+* Dinner cruise in Michigan lake
 ### Things to do
 * Willis tower skydeck
 * Chicago Architecture Tour
