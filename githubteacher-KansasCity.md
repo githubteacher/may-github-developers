@@ -3,6 +3,7 @@
 ### Places to eat
 - Kansas City Joe's BBQ
 - Smash Burger
+- Kin Lin
 
 ### Things to do
 - Shawnee Mission Park
